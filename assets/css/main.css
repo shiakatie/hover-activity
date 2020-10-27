@@ -1,0 +1,102 @@
+/* reset */
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+/* type */
+
+body {
+    font-family: arial, sans-serif;
+    text-align: left;
+    font-size: 50px;
+    line-height: 1.4;
+    background-color: #fefefe;
+}
+
+.content {
+  max-width: 1000px;
+  padding: 100px 30px;
+  margin: auto;
+  font-weight: 300;
+}
+
+.content p {
+  margin-bottom: 80px;
+  position: relative;
+}
+
+.writing {
+  text-decoration: none;
+  color: #000;
+  position: relative;
+}
+
+.writing:hover:after {
+  display: block;
+  content: url(../imgs/fuwah.jpg);
+  position: fixed;
+  left: 30%;
+  top: 30%;;
+}
+
+.writing-2 {
+  text-decoration: none;
+  color: #000;
+  position: relative;
+}
+
+.writing-2:hover:after {
+  display: block;
+  content: url(../imgs/hibiscus.jpeg);
+  position: fixed;
+  left: 30%;
+  top: 30%;;
+}
+
+.writing-3 {
+  text-decoration: none;
+  color: #000;
+  position: relative;
+}
+
+.writing-3:hover:after {
+  display: block;
+  content: url(../imgs/locopez.jpg);
+  position: fixed;
+  left: 30%;
+  top: 30%;;
+}
+
+.writing-4 {
+  text-decoration: none;
+  color: #000;
+  position: relative;
+}
+
+.writing-4:hover:after {
+  display: block;
+  content: url(../imgs/clarkville.png);
+  position: fixed;
+  left: 30%;
+  top: 30%;;
+}
+
+.writing-5 {
+  text-decoration: none;
+  color: #000;
+  position: relative;
+}
+
+.writing-5:hover:after {
+  display: block;
+  content: url(../imgs/pasquallys.jpg);
+  position: fixed;
+  left: 30%;
+  top: 30%;;
+}
+
+
+}
+
